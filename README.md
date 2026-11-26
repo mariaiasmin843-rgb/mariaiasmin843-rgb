@@ -29,8 +29,8 @@ Acredito no aprendizado constante, na dedicação e na importância de me tornar
 <table>
   <tr>
     <td align="center">📚<br><b>Estudos</b><br><sub>Aprender e evoluir</sub></td>
-    <td align="center">🧴<br><b>Autocuidado</b><br><sub>Bem-estar e skincare</sub></td>
-    <td align="center">💄<br><b>Beleza</b><br><sub>Maquiagem e autoestima</sub></td>
+    <td align="center">🖥️<br><b>Progamação</b><br><sub>Lógica e Algoritmos</sub></td>
+    <td align="center">🏫<br><b>Aprendizado em TI</b><br><sub>Evoluindo a cada dia</sub></td>
   </tr>
   <tr>
     <td align="center">✨<br><b>Inovação</b><br><sub>Novas ideias</sub></td>
