@@ -13,7 +13,12 @@
 
 </div>
 
-## 🌸 Sobre mim
+## Olá! Eu sou a Iasmin
+Estudante do Ensino Médio e do curso Técnico em Desenvolvimento de Sistemas, iniciado em 2026.
+
+Tenho 16 anos e estou começando minha jornada no mundo da programação. Sou uma pessoa dedicada e que gosta de aprender coisas novas, trabalhar em equipe e desenvolver constantemente meus conhecimentos e habilidades.
+
+🌸 Sobre mim
 
 Sou uma pessoa esforçada, dedicada e curiosa, que está sempre em busca de novos conhecimentos e oportunidades para evoluir.
 
